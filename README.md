@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2d0b5941bc9ad3f856b1ef1287d347ce8aee3f1c
 
 # Part 1: Detailed System Explanation
 
