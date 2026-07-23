@@ -118,3 +118,23 @@ dist
 .pnp.*
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
+
+# React (Vite)
+Frontend/dist/
+
+# Backend builds (if you ever compile)
+Backend/dist/
+
+# Environment files
+Backend/.env
+Frontend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
